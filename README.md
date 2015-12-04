@@ -6,7 +6,7 @@
 ###Netze und Elmente der diskreten Geometrie
 CGAL ist eine Programmier-Bibliothek, die viele Alorithmen und Datenstrukturen der diskreten und algorithmischen Geometrie implementiert. Das Handbuch 
 http://doc.cgal.org/latest/Manual/packages.html
-liefer einige interessante Einblicke in diese Thematik.
+liefert einige interessante Einblicke in diese Thematik.
 
 ###Orientierbarkeit von Netzen
 Ein Video Über die Kleinsche Flasche und etwas Information über die Selbstdurchdringung
