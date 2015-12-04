@@ -3,7 +3,7 @@
 
 # Skript und Materialien zur Vorlesung Computergrafik an der HKDM in Freiburg gehalten von Dr. Johannes Riesterer
 
-##Links zu weiteren interessanten Themen
+##Links zu weiteren interessanten Themen und Materialien
 
 ###Netze und Elemente der diskreten Geometrie
 CGAL ist eine Programmier-Bibliothek, die viele Alorithmen und Datenstrukturen der diskreten und algorithmischen Geometrie implementiert. Das Handbuch 
