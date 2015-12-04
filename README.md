@@ -3,5 +3,5 @@
 ##Weitere Materialien und Links
 
 ###Orientierbarkeit von Netzen
-Ein Video Über die Kleinsche Flasche und etwas information über die Selbstdurchdringung
+Ein Video Über die Kleinsche Flasche und etwas Information über die Selbstdurchdringung
 https://www.youtube.com/watch?v=4XN0V4xHaoQ
