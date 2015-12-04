@@ -1,5 +1,5 @@
 ![alt text] (https://raw.githubusercontent.com/johannes-riesterer/hkdm_cg/master/cg_trailer.jpg)
-<img src="https://raw.githubusercontent.com/johannes-riesterer/computergrafik_script/master/images/clown_fish.jpg" alt="Drawing" style="width: 100px;"/>
+<img src="https://raw.githubusercontent.com/johannes-riesterer/computergrafik_script/master/images/clown_fish.jpg" alt="Drawing" width: 320px;"/>
 # Skript und Materialien zur Vorlesung Computergrafik an der HKDM in Freiburg gehalten von Dr. Johannes Riesterer
 
 ##Links zu weiteren Materialien
