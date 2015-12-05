@@ -6,7 +6,7 @@
 ##Links zu weiteren interessanten Themen und Materialien
 
 ###Polygone, Netze und Elemente der diskreten Geometrie
-CGAL ist eine Programmbibliothek, die viele Alorithmen und Datenstrukturen der diskreten und algorithmischen Geometrie implementiert. Das Handbuch 
+CGAL ist eine Programmbibliothek, die viele Algorithmen und Datenstrukturen der diskreten und algorithmischen Geometrie implementiert. Das Handbuch 
 http://doc.cgal.org/latest/Manual/packages.html
 liefert einige interessante Einblicke in diese Thematik.
 
