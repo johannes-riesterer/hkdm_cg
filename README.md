@@ -1,9 +1,12 @@
 ![alt text] (https://raw.githubusercontent.com/johannes-riesterer/hkdm_cg/master/cg_trailer.jpg)
 <img src="https://raw.githubusercontent.com/johannes-riesterer/computergrafik_script/master/images/clown_fish.jpg" alt="Drawing"/>
 
-# Skript und Materialien zur Vorlesung Computergrafik an der HKDM in Freiburg gehalten von Dr. Johannes Riesterer
+# Skript und Materialien zu den Vorlesungen Computergrafik und 3D-Visualisierung an der HKDM in Freiburg gehalten von Dr. Johannes Riesterer
 
 ##Links zu weiteren interessanten Themen und Materialien
+###WebGL
+http://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html
+
 
 ###Polygone, Netze und Elemente der diskreten Geometrie
 CGAL ist eine Programmbibliothek, die viele Algorithmen und Datenstrukturen der  diskreten und algorithmischen Geometrie, einem Grundlagengebiet der Computergrafik, implementiert. Das Handbuch 
