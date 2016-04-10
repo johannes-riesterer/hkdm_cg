@@ -1,7 +1,7 @@
 
 # Skript und Materialien zu den Vorlesungen Computergrafik und 3D-Visualisierung an der HKDM in Freiburg gehalten von Dr. Johannes Riesterer
 ![alt text] (https://upload.wikimedia.org/math/3/1/3/31367aa8e3bcf9c10ad9bbf99b0af27e.png)
-![alt text] (http://fb04267.mathematik.tu-darmstadt.de/amu_stud_website/gps_schattenwurf/schattenwurf/zentralprojektion.gif)
+![alt text] (https://upload.wikimedia.org/wikipedia/commons/5/5c/Ray_trace_diagram.png)
 ![alt text] (https://raw.githubusercontent.com/johannes-riesterer/hkdm_cg/master/cg_trailer.jpg)
 <img src="https://raw.githubusercontent.com/johannes-riesterer/computergrafik_script/master/images/clown_fish.jpg" alt="Drawing"/>
 
