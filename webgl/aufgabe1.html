@@ -24,13 +24,16 @@ void main() {
 }
 </script>
 
-    <script id="2d-fragment-shader" type="x-shader/x-fragment">
+
+
+<script id="2d-fragment-shader" type="x-shader/x-fragment">
 precision mediump float;
 varying float T;
 void main() {
-        gl_FragColor = vec4(abs(cos(T))*vec3(1.0 ,1.0,1.0),1.0);
+    gl_FragColor = vec4(gl_FragCoord.x/800.0, 0.0,0.0, 1.0 );
  
 }
+
 </script>
 
     <script type="text/javascript">
